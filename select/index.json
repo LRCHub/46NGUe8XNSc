@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Last Kiss",
+  "base_artist": "三船美優 (CV: 原田彩楓)",
+  "createdAt": "2026-03-01T04:02:13.100999Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Kiss",
+      "artist": "Julia Cole",
+      "has_synced": false,
+      "path": "select/01_Last_Kiss_Julia_Cole.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Kiss",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/02_Last_Kiss_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One More Last Kiss",
+      "artist": "Ivy",
+      "has_synced": true,
+      "path": "select/03_One_More_Last_Kiss_Ivy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/04_Blow_Me_(One_Last_Kiss)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Kiss",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/05_Last_Kiss_Taylor_Swift.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Last Kiss",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/06_One_Last_Kiss_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Apathy's Last Kiss - Siamese Sessions Rough Mix",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/07_Apathy's_Last_Kiss_-_Siamese_Sessions_Rough_Mix_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Apathy's Last Kiss (Siamese Sessions Rough Mix)",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/08_Apathy's_Last_Kiss_(Siamese_Sessions_Rough_Mix)_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Kiss",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/09_Last_Kiss_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Kiss",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/10_Last_Kiss_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If This Is the Last Kiss (Let's Make It Last All Night)",
+      "artist": "Meat Loaf",
+      "has_synced": true,
+      "path": "select/11_If_This_Is_the_Last_Kiss_(Let's_Make_It_Last_All_Night)_Meat_Loaf.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Days and Her Last Kiss",
+      "artist": "My Dead Girlfriend",
+      "has_synced": true,
+      "path": "select/12_Sweet_Days_and_Her_Last_Kiss_My_Dead_Girlfriend.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Kiss",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/13_Last_Kiss_Taylor_Swift.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Kiss - Live/2011",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/14_Last_Kiss_-_Live_2011_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Night Lonely",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/15_Last_Night_Lonely_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Last Ones Up",
+      "artist": "Nicole Rayy",
+      "has_synced": true,
+      "path": "select/16_Last_Ones_Up_Nicole_Rayy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Like It's The Last Time",
+      "artist": "Thomas Rhett",
+      "has_synced": false,
+      "path": "select/17_Like_It's_The_Last_Time_Thomas_Rhett.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sam Cherry's Last Shot",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/18_Sam_Cherry's_Last_Shot_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sam Cherry's Last Shot",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/19_Sam_Cherry's_Last_Shot_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Last Oasis",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/20_The_Last_Oasis_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Last Oasis",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/21_The_Last_Oasis_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Last Year",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/22_Last_Year_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Last Year",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/23_Last_Year_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "(Lost Her Love) On Our Last Date",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/24_(Lost_Her_Love)_On_Our_Last_Date_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Atlanta Burned Again Last Night",
+      "artist": "Atlanta",
+      "has_synced": false,
+      "path": "select/25_Atlanta_Burned_Again_Last_Night_Atlanta.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Built to Last",
+      "artist": "American Aquarium",
+      "has_synced": true,
+      "path": "select/26_Built_to_Last_American_Aquarium.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Down to My Last Lie",
+      "artist": "Joshua Hedley",
+      "has_synced": false,
+      "path": "select/27_Down_to_My_Last_Lie_Joshua_Hedley.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Down To My Last Teardrop",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/28_Down_To_My_Last_Teardrop_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Kiss",
+      "artist": "三船美優 (原田彩楓)",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Kiss_三船美優_(原田彩楓).txt"
+    }
+  ]
+}
